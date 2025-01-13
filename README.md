@@ -1,6 +1,7 @@
 # testeDesenv2
 ## Node versão v10.17.0 ( essa versão foi utilizada pois era a que estava disponivel em minha máquina, para não atrapalhar outros projetos fiz nessa versão, 
 ## porém as fontes desenvolvidas provalmente afetaria muito pouco em uma nova versão)
+## Utilizando vsCode e Git
 ## Para iniciar o projeto
 ## npm install node.js 
 ## npm install 
